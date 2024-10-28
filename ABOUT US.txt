@@ -1,0 +1,10 @@
+<HTML>
+	<HEAD>
+		<TITLE>ABOUT US</TITLE>
+	</HEAD>
+
+	<BODY BGCOLOR="ORANGE">
+		<a href="E:\MID PROJECT HTML\HOME.HTML">BACK</a>
+		<H1 ALIGN="CENTER" style="font-size:200px; ">Management Institute of Durgapur (MID) is a premier non-Government College in West Bengal with industry oriented research activities offering an unrivaled ring of education and research opportunities of outstanding breath and quality.</H1>
+	</BODY>
+</HTML>
